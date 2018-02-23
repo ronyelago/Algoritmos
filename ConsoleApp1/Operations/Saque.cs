@@ -17,5 +17,10 @@ namespace ConsoleApp1.Saque
 
             return false;
         }
+
+        public string Sacar(double value)
+        {
+
+        }
     }
 }
