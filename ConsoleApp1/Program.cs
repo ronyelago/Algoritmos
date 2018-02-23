@@ -9,7 +9,6 @@ public class Program
 		De acordo com o valor informado na variavel valor. 
 		Sistema deve retornar notas somente quando o valor for divisível pelas notas disponíveis, retornando mensagem informativa caso o valor não seja divisível pelas notas.
 		Sistema deve retornar o menor número de notas para o valor informado. Deve informar a quantidade de cada nota como resultado do saque.
-
 		*/
 
         double valor = 0;
